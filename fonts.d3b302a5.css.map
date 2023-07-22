@@ -1,0 +1,1 @@
+{"version":3,"sources":["fonts.css"],"names":[],"mappings":"AAAA,WACE,kBAAqB,CACrB,iIAEwB,CACxB,eACF","file":"fonts.d3b302a5.css","sourceRoot":"../src","sourcesContent":["@font-face {\n  font-family: \"Avenir\";\n  src: url(/fonts/Avenir-Book.ttf),\n    url(/fonts/Avenir-Heavy.ttf),\n    url(/fonts/Avenir.ttc);\n  font-weight: 400;\n}\n"]}
